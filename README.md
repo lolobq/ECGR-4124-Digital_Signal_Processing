@@ -3,3 +3,6 @@ This is a compilation of homeworks and projects from ECGR-4124 Digital Signal Pr
 
 ## Homework 1:
 Topics: Signal sampling and downsampling, shifting impulse functions, shifting and amplifying complex sequences. 
+
+## Homework 2:
+Topics: Applying a moving average to signals, determining stability, causality, linearity, time invariance, and memorylessness of various systems, and colvolving various LTI systems. 
