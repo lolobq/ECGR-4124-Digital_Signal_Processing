@@ -6,3 +6,6 @@ Signal sampling and downsampling, shifting impulse functions, shifting and ampli
 
 ## Homework 2 Topics:
 Applying a moving average to signals, determining stability, causality, linearity, time invariance, and memorylessness of various systems, and colvolving various LTI systems. 
+
+## Homework 3 Topics:
+LTI difference equations, finding the step response, and determining the complete solution when excited by a unit step function.
